@@ -11,6 +11,9 @@
 ## Установка и настройка
 
 1. Клонируйте репозиторий:
+
+    git clone https://github.com/your-repository/marketplace.git
+
 2. Переименуйте файл `.env.sample` в `.env` и заполните его необходимыми данными.
 3. Запустите сборку контейнеров Docker:
 - docker-compose up -d --build
