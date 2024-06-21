@@ -1,0 +1,46 @@
+[
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "name": "Молоко",
+    "description": null,
+    "price": 78,
+    "seller": 1,
+    "is_sell": false
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "name": "Печенье",
+    "description": null,
+    "price": 39,
+    "seller": 1,
+    "is_sell": true
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "name": "сгущенка",
+    "description": null,
+    "price": 99,
+    "seller": 1,
+    "is_sell": true
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "name": "вафли",
+    "description": null,
+    "price": 69,
+    "seller": 1,
+    "is_sell": true
+  }
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+  "model": "users.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$Kc1Y9oaZ6n38qug6LEjzDN$cc1Q+WoreXcQAp748DZVu+gs06H/fKqnRSrA+lk6/kE=",
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-06-20T19:19:03.512Z",
+    "email": "ryfe@sky.pro",
+    "is_seller": true,
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
